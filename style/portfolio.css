@@ -26,6 +26,12 @@ header a {
   text-decoration: none;
 }
 
+.nav-image img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
 #hero {
   text-align: center;
   padding: 4rem 2rem;
